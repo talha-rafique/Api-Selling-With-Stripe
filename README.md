@@ -3,10 +3,11 @@ This is the backed for APi selling with stripe payments for users account.
 
 ## Run it
 
-- Create a metered billing product in Stripe
-- Install Stripe CLI
-- Add your testing Stripe secret key in the index.js
+- need to create products in stripe and then connect stripe via Stripe CLi
+- Install Stripe CLI and connect
+- Add testing Stripe secret key in the index.js
 
+# To Run
 ```bash
 git clone 
 npm i
